@@ -1,0 +1,36 @@
+{
+    "inventory" :
+    [
+        [
+            "ford",
+            "mustang",
+            "1965"
+        ],
+        [
+            "datSun",
+            "280-z",
+            "1975"
+        ],
+        [
+            "chevrolet",
+            "corvette",
+            "1969"
+        ],
+        [
+            "porsche",
+            "9-11 turbo",
+            "1988"
+        ],
+        [
+            "Lamborghini",
+            "countage",
+            "1984"
+        ],
+        [
+            "",
+            "f-150",
+            "1976"
+        ]
+    ]
+        
+}
